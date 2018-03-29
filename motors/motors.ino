@@ -11,7 +11,7 @@ int smallAdjust = 150;
 void setup()
 {
   myservo1.attach(9); // attached to pin 9
-  myservo2.attach(8); // attached to pin 8
+  myservo2.attach(10); // attached to pin 8
 }
 
 void loop()
